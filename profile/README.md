@@ -1,12 +1,31 @@
-## Hi there 👋
+## 👋 Hi there! Welcome to SavourLabs's web3 university community. We're so glad you stopped by!
 
-<!--
+SavourLabs Academy is a web3 university community helps anyone who want to learn and improve web3 tech, Everyone can take part in it. And if you have interesting, you can join us, Let’s spread web3 technology together.
 
-**Here are some ideas to get you started:**
+* Discord: [https://discord.gg/9N62gJgMVW](https://discord.gg/9N62gJgMVW)
+* Twitter: [https://twitter.com/seek_web3](https://twitter.com/seek_web3)
+* SavourLabs Dev Group Email: [0xsavourlabs@gmail.com](0xsavourlabs@gmail.com)
+* Telegram [https://t.me/+qqhy1i-_xnU1M2Jl](https://t.me/+qqhy1i-_xnU1M2Jl)
+* WeChat ID: LGZAXE
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Repositories
+
+* [chaineye-rust](https://github.com/savourlabs-academy/chaineye-rust) Rust courses
+
+
+## How to contribute
+
+First off, thanks for taking the time to contribute! Contributions are what makes the open-source community such an amazing place to learn, inspire, and create. Any contributions you make will benefit everybody else and are greatly appreciated.
+
+Please find issure under each project and contribute.
+
+## Links
+
+* [savour labs github](https://github.com/savour-labs) savour labs github
+
+
+Thanks for visiting our profile, and happy coding! 😊
+
+
+
+
