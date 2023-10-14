@@ -12,6 +12,8 @@ SavourLabs Academy is a web3 university community helps anyone who want to learn
 
 * [chaineye-rust](https://github.com/savourlabs-academy/chaineye-rust) Rust courses
 * [chaineye-zk-layer2](https://github.com/savourlabs-academy/chaineye-zk-layer2) zk rollup layer2 Chinese tutorial, updated every week 1-3 lectures
+* [chaineye-blockchain-interview](https://github.com/savourlabs-academy/chaineye-blockchain-interview) Recently, the project is recruiting personnel, and I have interviewed many blockchain engineers. I feel that no one can grasp the key points of the interview. This tutorial is mainly to sort out some interview ideas and interview questions in the blockchain.
+* [chaineye-data-availability](https://github.com/savourlabs-academy/chaineye-data-availability)  DA project architecture design analysis, technical analysis, code analysis, applicable scenario analysis, etc. of the data availability layer of the LianEye community modular blockchain, updated 1-3 lectures every week
 
 
 ## How to contribute
