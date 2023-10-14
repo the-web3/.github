@@ -11,6 +11,7 @@ SavourLabs Academy is a web3 university community helps anyone who want to learn
 ## Repositories
 
 * [chaineye-rust](https://github.com/savourlabs-academy/chaineye-rust) Rust courses
+* [chaineye-zk-layer2](https://github.com/savourlabs-academy/chaineye-zk-layer2) zk rollup layer2 Chinese tutorial, updated every week 1-3 lectures
 
 
 ## How to contribute
