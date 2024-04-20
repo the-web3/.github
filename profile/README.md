@@ -30,7 +30,7 @@ Please find issure under each project and contribute.
 
 ## Links
 
-* [savour labs github](https://github.com/savour-labs) savour labs github
+* [the web3](https://github.com/the-web3) the web3 github
 
 
 Thanks for visiting our profile, and happy coding! 😊
