@@ -24,7 +24,8 @@ The Web3 是一个专注 Web3 技术解决方案设计与开发、技术教程�
 
 ## 热门课程
 
-[区块链技术培训课程](https://github.com/the-web3/course-outline)
+- [区块链技术培训课程](https://github.com/the-web3/course-outline)
+- [区块链产品经理培训课程](https://github.com/the-web3/course-outline/tree/main/product#readme)
 
 
 
