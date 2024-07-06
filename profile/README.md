@@ -16,12 +16,6 @@ The Web3 是一个专注 Web3 技术解决方案设计与开发、技术教程�
 * the web3 技术服务网站：https://web.thewebthree.xyz/
 
 
-## 赞助我们
-
-- ETH: 0xe3b4ECd2EC88026F84cF17fef8bABfD9184C94F0
-- ERC20: 0xe3b4ECd2EC88026F84cF17fef8bABfD9184C94F0
-- Layer2 Token: 0xe3b4ECd2EC88026F84cF17fef8bABfD9184C94F0
-
 ## 热门课程
 
 - [区块链技术培训课程](https://github.com/the-web3/course-outline)
