@@ -18,10 +18,10 @@ The Web3 是一个专注 Web3 技术解决方案设计与开发、技术教程�
 
 ## 热门课程
 
-- [区块链技术培训课程](https://github.com/the-web3/course-outline)
-- [区块链产品经理培训课程](https://github.com/the-web3/course-outline/tree/main/product#readme)
-- [区块链测试开发的最强课程来袭](https://github.com/the-web3/course-outline/blob/main/test/ReadMe.md)
-
+- [The Web3 社区--区块链技术培训课程](https://github.com/the-web3/course-outline)
+- [The Web3 社区--区块链产品经理培训课程](https://github.com/the-web3/course-outline/tree/main/product#readme)
+- [The Web3 社区--区块链测试开发的最强课程来袭](https://github.com/the-web3/course-outline/blob/main/test/ReadMe.md)
+- [The Web3 社区--区块链运维课程大纲](https://github.com/the-web3/course-outline/tree/main/operations#readme)
 
 ## The web3 业务范围
 - 技术服务：提供交易所钱包，HD 钱包，硬件钱包，MPC 托管钱包，Dapps, 质押协议，L1，L2 ，L3 公链，数据可用层（DA）和中心化交易所技术开发服务。
