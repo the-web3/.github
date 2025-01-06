@@ -7,7 +7,6 @@ The Web3 是一个专注 Web3 技术解决方案设计与开发、技术教程�
 
 ## 社交账号
 
-* Discord: [https://discord.gg/9N62gJgMVW](https://discord.gg/9N62gJgMVW)
 * Twitter: [https://twitter.com/seek_web3](https://twitter.com/seek_web3)
 * The Web3 Dev Group Email: [0xsavourlabs@gmail.com](0xsavourlabs@gmail.com)
 * Telegram [https://t.me/+qqhy1i-_xnU1M2Jl](https://t.me/+qqhy1i-_xnU1M2Jl)
@@ -34,9 +33,10 @@ The Web3 是一个专注 Web3 技术解决方案设计与开发、技术教程�
 
 ## The Web3 社区官方链接
 - github: https://github.com/the-web3
+- 智能合约 github: https://github.com/the-web3-contracts
+- 公链 github: https://github.com/the-web3-chain
 - X: https://twitter.com/0xtheweb3cn
 - telegram: https://t.me/+pmoh3D4uTAFjNWM1
-- discord: https://discord.gg/muhuXRsK
 - the web3 官网：https://thewebthree.xyz/
 - the web3 技术服务网站：https://web.thewebthree.xyz/
 
