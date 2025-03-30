@@ -70,10 +70,11 @@ The Web3 是一个专注 Web3 技术解决方案设计与开发、技术教程�
 - github: https://github.com/the-web3
 - 智能合约 github: https://github.com/the-web3-contracts
 - 公链 github: https://github.com/the-web3-chain
-- X: https://twitter.com/0xtheweb3cn
+- 产品：https://github.com/the-web3-product
+- 区块链系列丛书：https://github.com/the-web3-book
+- X: https://x.com/0xtheweb3
 - telegram: https://t.me/+pmoh3D4uTAFjNWM1
 - the web3 官网：https://thewebthree.xyz/
-- the web3 技术服务网站：https://web.thewebthree.xyz/
 
   
 
