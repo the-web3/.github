@@ -45,7 +45,7 @@ The Web3 是一个专注 Web3 技术解决方案设计与开发、技术教程�
   - [链上开发篇《智能合约应用开发实战》](https://github.com/the-web3-book/the-web3-book/blob/main/outline/dapp.md)
   - [公链篇:《公链底层原理与源码解析》](https://github.com/the-web3-book/the-web3-book/blob/main/outline/chain.md)
 
-- 2.产品书籍
+- 产品书籍
   - [产品篇：《Web3 区块链产品经理实用指南》](https://github.com/the-web3-book/the-web3-book/blob/main/outline/product.md)
 
 ### 售卖简介
