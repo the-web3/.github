@@ -25,6 +25,8 @@ The Web3 是一个专注 Web3 技术解决方案设计与开发、技术教程�
 - [The Web3 社区--区块链运维课程大纲](https://github.com/the-web3/course-outline/tree/main/operations#readme)
 
 ## 热门课程
+- [The Web3 社区第六期区块链技术培训课程开始招生啦---系统提升 Web3 开发能力,掌握区块链核心技术!
+](https://github.com/the-web3/course-outline/blob/main/every-issue/tech/Sixth.md)
 - [The Web3 社区第五期区块链技术培训课程正式开启--助力开发者高效转行 Web3, 掌握核心区块链技术, 直通行业前沿！
 ](https://github.com/the-web3/course-outline/blob/main/every-issue/tech/fifth.md)
 - [The Web3 社区第三期区块链产品经理课程火热招生中--深度解码 Web3 产品形态与底层逻辑
