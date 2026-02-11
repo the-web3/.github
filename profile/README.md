@@ -17,6 +17,11 @@ The Web3 是一个专注 Web3 技术解决方案设计与开发、技术教程�
 
 - 比特币华语社区: https://github.com/the-web3/bitcoin-chinese
 
+
+## 最新年课程
+- [The Web3 社区 2026 最新版技术开发体系课程大纲](https://github.com/the-web3/tech2026-outline/blob/main/README.md)
+
+
 ## 历史课程
 
 - [The Web3 社区--区块链技术培训课程](https://github.com/the-web3/course-outline)
@@ -24,7 +29,8 @@ The Web3 是一个专注 Web3 技术解决方案设计与开发、技术教程�
 - [The Web3 社区--区块链测试开发的最强课程来袭](https://github.com/the-web3/course-outline/blob/main/test/ReadMe.md)
 - [The Web3 社区--区块链运维课程大纲](https://github.com/the-web3/course-outline/tree/main/operations#readme)
 
-## 热门课程
+## 2025 年课程
+
 - [The Web3 社区第六期区块链技术培训课程开始招生啦---系统提升 Web3 开发能力,掌握区块链核心技术!
 ](https://github.com/the-web3/course-outline/blob/main/every-issue/tech/Sixth.md)
 - [The Web3 社区第一期前端、智能合约加钱包一体化培训课程火热招生中3 个月高强度挑战，成为复合型区块链人才高手!
