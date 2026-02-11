@@ -24,6 +24,8 @@ The Web3 是一个专注 Web3 技术解决方案设计与开发、技术教程�
 - [The Web3 社区 2026 最新版产品投研体系课程大纲](https://github.com/the-web3/product2026-outline/blob/main/README.md)
 
 ### 培训课程
+- (The Web3 社区第五期 Web3 产品投研班开启报名--熊市学习拉开差距，牛市来了决定位置
+)[https://github.com/the-web3/product2026-outline/blob/main/course/fifth-issue/ReadMe.md]
 
 
 ## 历史课程
